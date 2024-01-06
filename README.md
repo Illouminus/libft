@@ -9,14 +9,14 @@
   </p>
 </div>
 
-<h3 align="center">Installation Instructions:</h3>
-<p align="center">
+<h3 align="left">Installation Instructions:</h3>
+<p align="left">
     git clone https://github.com/Illouminus/libft.git<br>
     cd libft<br>
     make<br>
 </p>
 
-<h3 align="center">Included Functions:</h3>
-<p align="center">
+<h3 align="left">Included Functions:</h3>
+<p align="left">
   String functions, memory functions, character tests, number conversions, list processing, etc.
 </p>
