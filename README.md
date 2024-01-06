@@ -11,11 +11,9 @@
 
 <h3 align="center">Installation Instructions:</h3>
 <p align="center">
-    <p>
-    git clone https://github.com/Illouminus/libft<br>
+    git clone https://github.com/Illouminus/libft.git<br>
     cd libft<br>
-    make
-</p>
+    make<br>
 </p>
 
 <h3 align="center">Included Functions:</h3>
